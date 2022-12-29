@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_img_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_background_image04.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\background_image04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_forgot_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\forgot_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_ic_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_background_image.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\background_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_background_image01.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\background_image01.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_background_image05.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\background_image05.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_background_image03.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\background_image03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_adapter.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_adapter.xml"
+    },
+    {
+        "merged": "com.example.semesterproject.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.semesterproject.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_ic_baseline_app_registration_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\ic_baseline_app_registration_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_reset_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\reset_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable_background_image02.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable\\background_image02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_img_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.semesterproject.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
